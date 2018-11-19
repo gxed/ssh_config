@@ -1,0 +1,24 @@
+{
+  "author": "magik6k",
+  "bugs": {
+    "url": "https://github.com/gxed/ssh_config"
+  },
+  "gx": {
+    "dvcsimport": "github.com/kevinburke/ssh_config"
+  },
+  "gxDependencies": [
+    {
+      "author": "magik6k",
+      "hash": "QmXWK2E36exsBNXFzu5SNVbjbQkrURBqnsHG7HJz9uVtu8",
+      "name": "go-buffruneio",
+      "version": "1.0.2"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "ssh_config",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.0"
+}
+
